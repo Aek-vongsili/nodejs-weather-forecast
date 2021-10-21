@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "name":"Sainyabuli"
+        
+    },
+    {
+        "id":2,
+        "name":"Luang Prabang"
+    },
+    {
+        "id":3,
+        "name":"Champasak"
+    },
+    {
+        "id":4,
+        "name":"Salavan"
+    },
+    {
+        "id":5,
+        "name":"Savannakhet"
+    },
+    {
+        "id":6,
+        "name":"Attapu"
+    },
+    {
+        "id":7,
+        "name":"Luang Namtha"
+    },
+    {
+        "id":8,
+        "name":"Phongsali"
+    },
+    {
+        "id":9,
+        "name":"Pakse"
+    }
+    
+]
